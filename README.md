@@ -46,17 +46,17 @@ Arguments covered:
   - Support Vector Machine Algorithm
   - K nearest neighbors
     
-9. Machine Learning 2
+8. Machine Learning 2
   - Decision Tree
   - Random Forest
   - Association Rules
   - Neural Networks
     
-10. Text Mining and Natural Language processing
+9. Text Mining and Natural Language processing
   - Structured vs unstructured data
   - Text mining in R and Python
   - Text mining using ggplot2
   - Sentiment analysis using R and Python
     
-11. Data Science in Practice
+10. Data Science in Practice
   - Project
