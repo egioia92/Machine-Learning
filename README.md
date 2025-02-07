@@ -1,6 +1,6 @@
 # Machine-Learning
 
-Collection of assignments held during my master's in Machine Learning
+Collection of assignments an final protect held during my master's in Machine Learning
 
 Arguments covered:
 
