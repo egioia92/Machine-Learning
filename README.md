@@ -1,5 +1,7 @@
 # Machine-Learning
 
+Credential Url: https://woolf.university/id/4295013771
+
 Collection of assignments and final project held during my master's in Machine Learning
 
 Arguments covered:
