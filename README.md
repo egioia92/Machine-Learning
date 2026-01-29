@@ -2,6 +2,8 @@
 
 [![Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge&logo=googlesheets)](Certificate/certified-professional-data-analyst.pdf)
 
+[![Woolf University](https://img.shields.io/badge/Woolf_University-Credential_Verified-blue)](https://woolf.university/id/4295013771)
+
 Collection of assignments and final project held during my master's in Machine Learning
 
 Arguments covered:
