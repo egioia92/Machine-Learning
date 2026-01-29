@@ -1,6 +1,6 @@
 # Machine-Learning
 
-Credential Url: https://woolf.university/id/4295013771
+[![Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge&logo=googlesheets)](Certificate/certified-professional-data-analyst.pdf)
 
 Collection of assignments and final project held during my master's in Machine Learning
 
