@@ -4,7 +4,7 @@
 
 [![Woolf University](https://img.shields.io/badge/Woolf_University-Credential_Verified-blue)](https://woolf.university/id/4295013771)
 
-Collection of assignments and final project held during my master's in Machine Learning
+Collection of assignments and final project held during my master's in Machine Learning (2024/2025)
 
 Arguments covered:
 
